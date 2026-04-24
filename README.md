@@ -1,0 +1,1 @@
+Este proyecto consiste en la implementación de una lista doblemente enlazada en C++. Incluye una versión corregida del código original y una versión mejorada utilizando un puntero tail para optimizar el rendimiento. El programa permite insertar, eliminar, buscar, recorrer y contar nodos mediante un menú interactivo.
